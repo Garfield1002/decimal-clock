@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/decimal-clock/static/css/main.b4a7471a.css",
-    "main.js": "/decimal-clock/static/js/main.7a8fb7ec.js",
+    "main.css": "/decimal-clock/static/css/main.ec99e32c.css",
+    "main.js": "/decimal-clock/static/js/main.f50ce8a8.js",
     "index.html": "/decimal-clock/index.html",
-    "main.b4a7471a.css.map": "/decimal-clock/static/css/main.b4a7471a.css.map",
-    "main.7a8fb7ec.js.map": "/decimal-clock/static/js/main.7a8fb7ec.js.map"
+    "main.ec99e32c.css.map": "/decimal-clock/static/css/main.ec99e32c.css.map",
+    "main.f50ce8a8.js.map": "/decimal-clock/static/js/main.f50ce8a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a7471a.css",
-    "static/js/main.7a8fb7ec.js"
+    "static/css/main.ec99e32c.css",
+    "static/js/main.f50ce8a8.js"
   ]
 }
