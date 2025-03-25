@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4a7471a.css",
-    "main.js": "/static/js/main.7a8fb7ec.js",
-    "index.html": "/index.html",
-    "main.b4a7471a.css.map": "/static/css/main.b4a7471a.css.map",
-    "main.7a8fb7ec.js.map": "/static/js/main.7a8fb7ec.js.map"
+    "main.css": "/decimal-clock/static/css/main.b4a7471a.css",
+    "main.js": "/decimal-clock/static/js/main.7a8fb7ec.js",
+    "index.html": "/decimal-clock/index.html",
+    "main.b4a7471a.css.map": "/decimal-clock/static/css/main.b4a7471a.css.map",
+    "main.7a8fb7ec.js.map": "/decimal-clock/static/js/main.7a8fb7ec.js.map"
   },
   "entrypoints": [
     "static/css/main.b4a7471a.css",
